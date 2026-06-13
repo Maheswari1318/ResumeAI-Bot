@@ -1,13 +1,14 @@
+<<<<<<< HEAD
 # 🤖 Resume AI Chatbot
 
-An AI-powered Resume Chatbot built using Python, Streamlit, Ollama, and Qwen. The chatbot reads resume information from a PDF file and answers user questions based on the resume content.
+An AI-powered Resume Chatbot built using Python, Streamlit, Ollama, and Qwen or Llama. The chatbot reads resume information from a PDF file and answers user questions based on the resume content.
 
 ## 🚀 Features
 
 * Resume-based Question Answering
 * PDF Text Extraction using PyPDF2
 * Local LLM Inference using Ollama
-* Qwen 2.5 Language Model
+* Llama 3.2 Language Model
 * Streamlit Web Interface
 * GitHub and LinkedIn Integration
 * Education, Skills, Projects, and Internship Information
@@ -19,7 +20,7 @@ An AI-powered Resume Chatbot built using Python, Streamlit, Ollama, and Qwen. Th
 * Streamlit
 * PyPDF2
 * Ollama
-* Qwen 2.5:3B
+* Llama 3.2
 * VS Code
 
 ## 📂 Project Structure
@@ -115,3 +116,6 @@ https://github.com/Maheswari1318
 
 LinkedIn:
 https://www.linkedin.com/in/umamaheswari1318
+=======
+# ResumeAI-Bot
+>>>>>>> 175381ddcc7aa409d13e4860769dc7026403f923
